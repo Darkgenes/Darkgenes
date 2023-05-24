@@ -1,4 +1,3 @@
-_lol_
 <body>
   <center>
 <h1 align = "center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
@@ -9,10 +8,10 @@ _lol_
    <img src = "https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
     <br>
-  _ lol _
-  <p>*para poder alcanzar la luz*</p>
-  <p>*Sometimes you have to go through*</p>
-  <p>*the darkness to reach the light.*</p>
+  <i>A veces tienes que adentrarte más en la oscuridad</i>
+  <i>para poder alcanzar la luz.</i>
+  <i>Sometimes you have to go through the darkness</i>
+  <i>to reach the light.</i>
 <p><a href = "https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
   
 </div>
