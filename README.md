@@ -51,7 +51,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center"> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h2>
  <br>
 <p>
   <div align="center">
@@ -75,7 +75,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 
 <p align = "center"><i>Here are some of my <br> social medias</i></p>
-<p align = "center"><a href = "https://twitter.com/PoolPartyAkali" target = "_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align = "center"><a href = "https://twitter.com/PoolPartyAkali" target = "_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/Darkgeness#2827" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 
 <br>
