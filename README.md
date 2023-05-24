@@ -8,10 +8,10 @@
    <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
     <br>
-  <p><i>A veces hay que adentrarse más en la oscuridad</i></p>
-  <p><i>para poder alcanzar la luz.</i></p>
-  <p><i>Sometimes you have to go through</i></p>
-  <p>the darkness to reach the light.</p>
+  <p>*A veces hay que adentrarse más en la oscuridad*</p>
+  <p>*para poder alcanzar la luz*</p>
+  <p>*Sometimes you have to go through*</p>
+  <p>*the darkness to reach the light.*</p>
 <p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
   
 </div>
