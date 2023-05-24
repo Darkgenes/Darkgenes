@@ -1,7 +1,5 @@
-<body>
-  <center>
 <h1 align = "center"><b>Welcome to my Profile</b></h1>
-<br>
+    
 <div align = "center">
 <!-- <a href = "https://discord.com/users/202740603790819328" > -->
   <a href = "https://thicc-thighs.de/" >
@@ -85,5 +83,3 @@ most used s-s-sociaw things >~< xoxox</p>
 <hr>
 </div>
 </div>
-    </center>
-</body>
