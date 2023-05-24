@@ -75,7 +75,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 
 <p align = "center"><i>Here are some of my <br> social medias</i></p>
-<p align = "center"><a href = "https://linkedin.com/in/cristhiamgonzalezfm" target = "_blank"><img src = "https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<p align = "center"><a href = "https://linkedin.com/in/cristhiamgonzalezfm" target = "_blank"><img src = "https://img.shields.io/badge/Cristhiamfgm%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </div>
 
 <br>
