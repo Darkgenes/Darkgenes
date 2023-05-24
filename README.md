@@ -69,7 +69,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <!-- Sección de contacto -->
 <h2 align = "center"><b><i>Contact:</i></b></h2>
 <div align = "center">
-    <img src = "https://i.imgur.com/oX4kw9A.gif" align = "right" width = "373.5px" height = "208.5px">
+    <img src = "https://i.imgur.com/oX4kw9A.gif" align = "right" width = "400px" height = "210px">
 </div>
 
 <br>
