@@ -8,7 +8,7 @@
    <img src = "https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
     <br>
-  <p>_lol_</p>
+  _lol_
   <p>*para poder alcanzar la luz*</p>
   <p>*Sometimes you have to go through*</p>
   <p>*the darkness to reach the light.*</p>
