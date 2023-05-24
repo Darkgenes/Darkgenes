@@ -9,10 +9,14 @@
   </a>
     <br>
   <i>A veces tienes que adentrarte más en la oscuridad</i>
+  
   <i>para poder alcanzar la luz.</i>
+  
   <i>Sometimes you have to go through the darkness</i>
+  
   <i>to reach the light.</i>
-<p><a href = "https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
+
+  <p><a href = "https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
   
 </div>
     <div align="center">
