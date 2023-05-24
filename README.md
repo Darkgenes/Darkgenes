@@ -76,8 +76,8 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center">𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!</h2>
-
+    <h2 align="center"><i><b>Thanks for reading</b></i></h2>
+</div>
 <div align = "center">
     <img src = "https://i.imgur.com/zmXLgvW.gif">
 </div>
