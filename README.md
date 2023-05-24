@@ -67,8 +67,8 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 
 <br>
 <!-- Sección de contacto -->
-<h2 align = "center"><b><i>Contact:</i></b></h2>
-<div align = "center">
+<h2 align = "left"><b><i>Contact:</i></b></h2>
+<div>
     <img src = "https://i.imgur.com/oX4kw9A.gif" align = "right" width = "400px" height = "210px">
 </div>
 
@@ -82,7 +82,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 
 <!-- Sección final -->
 <div>
-    <h2 align="center"><i><b>Thanks for reading</b></i></h2>
+    <h2 align = "left"><i><b>Thanks for reading</b></i></h2>
 </div>
 <div align = "center">
     <img src = "https://i.imgur.com/zmXLgvW.gif">
