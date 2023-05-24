@@ -80,7 +80,7 @@ most used s-s-sociaw things >~< xoxox</p>
 
 <div align = "center">
     
-<img src = "https://i.imgur.com/tzYKRfd.gif">
+<img src = "https://i.imgur.com/zmXLgvW.gif">
 </div>
 
     <hr>
