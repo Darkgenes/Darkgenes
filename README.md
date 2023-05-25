@@ -1,5 +1,7 @@
+<!-- Title -->
 <h1 align = "center"><b><i>Welcome to my Profile</i></b></h1>
-    
+
+<!-- Discord -->
 <div align = "center">
 <!-- <a href = "https://discord.com/users/Darkgeness#2827" > -->
   <a href = "https://thicc-thighs.de/" >
@@ -7,11 +9,8 @@
   </a>
     <br>
   <i>A veces tienes que adentrarte más en la Oscuridad</i>
-  
   <i>para poder alcanzar la Luz.</i>
-  
   <i>Sometimes you have to go through the Darkness</i>
-  
   <i>to reach the Light.</i>
 
   <p><a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"><i>Click here</i></a><p>
