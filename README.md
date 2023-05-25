@@ -53,10 +53,12 @@
 
 <!-- Sección final -->
 <div>
-    <h2 align = "left"><i><b>Thanks for reading</b></i></h2>
+    <h2 align = "left"><i><b>Thanks for reading ..</b></i></h2>
 </div>
 <div align = "center">
     <img src = "https://i.imgur.com/zmXLgvW.gif">
 </div>
 <!-- Una linea separatoria -->
+
+<h10>This is a test readme-profile (it's not finished yet)</h10>
 <hr>
