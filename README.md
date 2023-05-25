@@ -9,8 +9,9 @@
   </a>
 
   <i>A veces tienes que adentrarte más en la Oscuridad</i><br><i>para poder alcanzar la Luz.</i>
+  <br>
   <i>Sometimes you have to go through the Darkness</i><br><i>to reach the Light.</i>
-
+  <br>
   <p><a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"><i>Click here</i></a><p>
   
 </div>
