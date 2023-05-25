@@ -7,11 +7,9 @@
   <a href = "https://thicc-thighs.de/" >
    <img src = "https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
-    <br>
-  <i>A veces tienes que adentrarte más en la Oscuridad</i>
-  <i>para poder alcanzar la Luz.</i>
-  <i>Sometimes you have to go through the Darkness</i>
-  <i>to reach the Light.</i>
+
+  <i>A veces tienes que adentrarte más en la Oscuridad</i><br><i>para poder alcanzar la Luz.</i>
+  <i>Sometimes you have to go through the Darkness</i><br><i>to reach the Light.</i>
 
   <p><a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"><i>Click here</i></a><p>
   
