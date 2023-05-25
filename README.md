@@ -46,7 +46,7 @@
   </div>
 
   <p align = "left"><i>Here are some of my social medias</i></p>
-  <p align = "center"><a href = "https://linkedin.com/in/cristhiamgonzalezfm" target = "_blank"><img src = "https://img.shields.io/badge/Cristhiamfgm%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIN&logoColor=white"></a> <a href = "cristhiam.060201@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/gmail-cristhiam-red"></a></p>
+  <p align = "center"><a href = "https://linkedin.com/in/cristhiamgonzalezfm" target = "_blank"><img src = "https://img.shields.io/badge/Cristhiamfgm%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIN&logoColor=white"></a> <a href = "mailto:cristhiam.060201@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/gmail-cristhiam-red"></a></p>
   <br><br>
 </div>
 
