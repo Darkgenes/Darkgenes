@@ -41,11 +41,15 @@
   <li>
     <b>Working @:</b> Intave Anticheat
   </li>
-<br><br><br>
+  
+  <br><br>
+
 </div>
 
-<br>
+<br><br>
+
 <!-- Sección de contacto -->
+
 <h2 align = "left"><b><i>Contact:</i></b></h2>
 <div>
     <img src = "https://i.imgur.com/oX4kw9A.gif" align = "right" width = "400px" height = "210px">
@@ -55,7 +59,6 @@
 
 <p align = "center"><i>Here are some of my <br> social medias</i></p>
 <p align = "center"><a href = "https://linkedin.com/in/cristhiamgonzalezfm" target = "_blank"><img src = "https://img.shields.io/badge/Cristhiamfgm%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIN&logoColor=white"></a> <a href = "cristhiam.060201@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/gmail-cristhiam-red"></a></p>
-</div>
 
 <br>
 
