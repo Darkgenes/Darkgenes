@@ -24,7 +24,8 @@
     <b>Alternative name:</b> Darkgenes
   </li>
   <li>
-    <b>Nationality:</b> Colombian :flag_co
+    <b>Nationality:</b> Colombian ![image](https://github.com/Darkgenes/Darkgenes/assets/88634132/3146678e-05bb-461d-8f97-9a21a5689f97)
+
 
   </li>
   <li>
