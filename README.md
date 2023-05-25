@@ -4,7 +4,7 @@
 <!-- Discord -->
 
 <div align = "center">
-  <a href = "https://www.youtube.com/watch?v=8IjdkNaGI6k"><img src = "https://www.deviantart.com/menikraart/art/Fantasy-Dark-Knight-940864481"/></a>
+  <a href = "https://www.youtube.com/watch?v=8IjdkNaGI6k"><img src = "https://i.imgur.com/b493aYd.gif"></a>
 
   <i><b>A veces tienes que adentrarte más en la Oscuridad</b></i><br><i><b>para poder alcanzar la Luz.</b></i>
   <br>
