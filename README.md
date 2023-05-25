@@ -29,21 +29,6 @@
   <li>
     <b>Gender:</b> Male
   </li>
-  <li>
-    <b>Git Server</b> https://git.thicc-thighs.de
-  </li>
-  <li>
-    <b>LastFM:</b> https://scrobble.egirldev.co.uk
-  </li>
-  <li>
-    <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-  </li>
-  <li>
-    <b>Working @:</b> Intave Anticheat
-  </li>
-  
-  <br><br>
-
 </div>
 
 <br><br>
