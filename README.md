@@ -1,4 +1,4 @@
-<h1 align = "center"><b>Welcome to my Profile</b></h1>
+<h1 align = "center"><b><i>Welcome to my Profile</i></b></h1>
     
 <div align = "center">
 <!-- <a href = "https://discord.com/users/Darkgeness#2827" > -->
