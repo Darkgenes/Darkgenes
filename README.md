@@ -60,5 +60,5 @@
 </div>
 <!-- Una linea separatoria -->
 
-<p style = "font-size = 10px">This is a test readme-profile (it's not finished yet)</p>
+<p style = "font-size = 5px">This is a test readme-profile (it's not finished yet)</p>
 <hr>
