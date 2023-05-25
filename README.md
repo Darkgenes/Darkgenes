@@ -29,6 +29,9 @@
   <li>
     <b>Gender:</b> Male
   </li>
+  <li>
+    <b>University degree:</b> Electronic Engineer
+  </li>
 </div>
 
 <br><br>
