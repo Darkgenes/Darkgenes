@@ -6,6 +6,7 @@
 <div align = "center">
 <!-- <a href = "https://discord.com/users/Darkgeness#2827" > -->
   <a href = "https://thicc-thighs.de/"><img src = "https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/></a>
+  
   <i><b>A veces tienes que adentrarte más en la Oscuridad</b></i><br><i><b>para poder alcanzar la Luz.</b></i>
   <br>
   <i><b>Sometimes you have to go through the Darkness</b></i><br><i><b>to reach the Light.</b></i>
