@@ -42,7 +42,7 @@
 <div>
   <h2 align = "left"><b><i>Contact:</i></b></h2>
   <div>
-      <img src = "https://i.imgur.com/oX4kw9A.gif" align = "right" width = "400px" height = "210px">
+      <img src = "https://i.imgur.com/oX4kw9A.gif" align = "right" width = "400px" height = "180px">
   </div>
 
   <p align = "center">Here are some of my social medias:</p>
