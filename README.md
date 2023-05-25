@@ -24,7 +24,8 @@
     <b>Alternative name:</b> Darkgenes
   </li>
   <li>
-    <b>Nationality:</b> Colombian 🇨🇴
+    <b>Nationality:</b> Colombian :flag_co
+
   </li>
   <li>
     <b>Hobbies:</b> Anime, music, sports, ..
