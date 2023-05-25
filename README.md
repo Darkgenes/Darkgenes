@@ -16,7 +16,7 @@
 
 <div>
   <h2 align="center"><i><b>About me:</b></i></h2>
-  <div align = "center"><img src = "https://i.imgur.com/douh7U1.gif" align="right"></div>
+  <div align = "center"><img src = "https://i.imgur.com/douh7U1.gif" align = "right" width = "400px" height = "210px"></div>
   <li>
     <b>Name:</b> Cristhiam
   </li>
